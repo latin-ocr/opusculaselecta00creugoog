@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculaselecta00creugoog_0011.png"; bbox 0 0 3167 5192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 532 1326 908 1436">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 532 1326 908 1436">
+     <span class='ocr_line' id='line_1_1' title="bbox 532 1326 908 1436; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 532 1332 882 1436; x_wconf 83' lang='lat' dir='ltr'>ILLUSTRI</span> <span class='ocrx_word' id='word_1_2' title='bbox 904 1326 908 1330; x_wconf 31' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 135 1637 1270 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 135 1637 1270 1822">
+     <span class='ocr_line' id='line_1_2' title="bbox 135 1637 1270 1822; baseline 0 -50"><span class='ocrx_word' id='word_1_3' title='bbox 135 1637 690 1822; x_wconf 67' lang='lat' dir='ltr'><strong>ACADEMLAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 733 1639 1270 1776; x_wconf 78' lang='lat' dir='ltr'><strong>CAESAREAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 318 1983 1197 2067">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 318 1983 1197 2067">
+     <span class='ocr_line' id='line_1_3' title="bbox 318 1983 1197 2067; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 318 1985 646 2067; x_wconf 83' lang='lat' dir='ltr'><strong>LITERARUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 677 1983 1093 2066; x_wconf 87' lang='lat' dir='ltr'>VINDOBONENSI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1191 2021 1197 2032; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 195 3047 1136 3263">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 195 3047 1136 3263">
+     <span class='ocr_line' id='line_1_4' title="bbox 195 3047 1113 3163; baseline 0.005 -20"><span class='ocrx_word' id='word_1_8' title='bbox 195 3049 198 3058; x_wconf 81' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 390 3069 726 3146; x_wconf 62' lang='lat' dir='ltr'><strong>fammeus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 751 3071 1019 3163; x_wconf 68' lang='lat' dir='ltr'>cunum,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1102 3047 1113 3066; x_wconf 88' lang='lat'><strong><em>‘</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 800 3202 1136 3263; baseline 0.006 -56.071"><span class='ocrx_word' id='word_1_12' title='bbox 800 3227 924 3263; x_wconf 21' lang='lat' dir='ltr'><strong>BBBBBBBB</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1132 3202 1136 3209; x_wconf 86' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1588 5192">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1588 5192">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1588 5192; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1588 5192; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
